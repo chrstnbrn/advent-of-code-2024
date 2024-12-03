@@ -11,6 +11,10 @@
         <Content Include="Day01Example.txt" />
         <Compile Include="Day02Test.fs" />
         <Content Include="Day02Example.txt" />
+        <Compile Include="Day03Test.fs" />
+        <Content Include="Day03Example1.txt" />
+        <Content Include="Day03Example2.txt" />
+        <Content Include="Day03Example3.txt" />
     </ItemGroup>
 
     <ItemGroup>
